@@ -9,7 +9,7 @@ Copie autonome de l'outil v4.3.1, hébergée sur GitHub Pages, sans serveur PHP.
 - **Projets** : enregistrés dans le navigateur de chaque poste (IndexedDB). « Mes projets » propose d'exporter et d'importer une sauvegarde.
 - **Profil** (nom, agence, photo pour les PDF) : enregistré dans le navigateur, modifiable dans « Mon compte ».
 - **Services publics appelés directement** : API Carto IGN (cadastre, zonage PLU, servitudes), Géoplateforme (géocodage, altimétrie, WFS), geo.api.gouv.fr.
-- **Relais** (`proxy-worker.js`, Cloudflare Workers, gratuit) : Géorisques et documents du Géoportail de l'urbanisme, qui refusent les appels directs. Son adresse se règle dans `config.js`.
+- **Relais** (`outils/proxy-worker.js`, Cloudflare Workers, gratuit) : Géorisques et documents du Géoportail de l'urbanisme, qui refusent les appels directs. Son adresse se règle dans `config.js`.
 
 ## Fichiers
 
