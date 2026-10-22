@@ -9,7 +9,7 @@ const ALLOWED = [
   'apicarto.ign.fr', 'data.geopf.fr', 'geo.api.gouv.fr', 'wxs.ign.fr'
 ];
 // Sites autorisés à utiliser le relais (votre GitHub Pages). Laisser vide = tous.
-const ORIGINS = [];
+const ORIGINS = ['https://agencevdb1-jpg.github.io'];
 
 export default {
   async fetch(request) {

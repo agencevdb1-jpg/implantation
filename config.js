@@ -1,4 +1,4 @@
 window.IMPLANT_CONFIG={
-  // Adresse du relais Cloudflare (proxy-worker.js), ex. 'https://implant-relais.monnom.workers.dev/'
-  proxy:''
+  // Relais Cloudflare (outils/proxy-worker.js) pour Géorisques et les documents PLU
+  proxy:'https://implant-relais.agencevdb1.workers.dev/'
 };
