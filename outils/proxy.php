@@ -27,6 +27,7 @@ curl_setopt_array($ch, [
   CURLOPT_USERAGENT => 'Mozilla/5.0 (outil implantation)',
   CURLOPT_HTTPHEADER => ['Accept: ' . ($_SERVER['HTTP_ACCEPT'] ?? '*/*')],
   CURLOPT_PROTOCOLS => CURLPROTO_HTTPS | CURLPROTO_HTTP,
+  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1, CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
 ]);
 $body = curl_exec($ch);
 if ($body === false) { http_response_code(502); exit('Service indisponible : ' . curl_error($ch)); }
