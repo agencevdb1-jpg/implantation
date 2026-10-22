@@ -129,9 +129,13 @@ async function apiAccount(url,init){
   return J({user:profile(),csrf:'local'});
 }
 
+const DIRECT_HOSTS=['data.geopf.fr','apicarto.ign.fr','geo.api.gouv.fr'];   // acceptent les appels directs (CORS)
 async function apiProxy(url){
-  if(!CFG.proxy) return J({error:"Relais non configuré (config.js) : Géorisques et la lecture automatique du PLU sont indisponibles."},503);
-  const u=url.searchParams.get('u'); const t=new URL(CFG.proxy); t.searchParams.set('u',u); if(url.searchParams.get('bin')) t.searchParams.set('bin','1');
+  const u=url.searchParams.get('u'); let host=''; try{ host=new URL(u).hostname; }catch(e){}
+  if(DIRECT_HOSTS.includes(host)) return realFetch(u,{cache:'no-store'});
+  const blocked=(CFG.blockedHosts||[]);
+  if(!CFG.proxy || blocked.includes(host)) return J({error:"Service non joignable depuis cette version (relais indisponible pour "+host+")."},503);
+  const t=new URL(CFG.proxy); t.searchParams.set('u',u); if(url.searchParams.get('bin')) t.searchParams.set('bin','1');
   return realFetch(t.toString(),{cache:'no-store'});
 }
 
