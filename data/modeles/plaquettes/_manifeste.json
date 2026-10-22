@@ -1,0 +1,7629 @@
+[
+ {
+  "f": "02ab14af-TT_Topaze_3.148_GI.pdf",
+  "id": "topaze-3-148-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "topaze-3-148-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "topaze-3-148-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "topaze-3-148-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "topaze-3-148-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "topaze-3-148-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "topaze-3-148-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "topaze-3-148-gi/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "topaze-3-148-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "0380b6b0-AVRIL2025_Tayi_1.053_CA.pdf",
+  "id": "tayi-1-053-ca",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "tayi-1-053-ca/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "tayi-1-053-ca/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "tayi-1-053-ca/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "tayi-1-053-ca/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "tayi-1-053-ca/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "tayi-1-053-ca/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "03ac52cb-AVRIL2025_Domova_3.093.pdf",
+  "id": "domova-3-093",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-3-093/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-3-093/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-3-093/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-3-093/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-3-093/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-3-093/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "0467d03c-AVRIL2025_Guri_5.180_GI.pdf",
+  "id": "guri-5-180-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "guri-5-180-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "guri-5-180-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "guri-5-180-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "guri-5-180-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "guri-5-180-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "guri-5-180-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "049f63c1-TT_Turquoise_2.111_A_PMR.pdf",
+  "id": "turquoise-2-111-a",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-a/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-a/pmr/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "turquoise-2-111-a/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "turquoise-2-111-a/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "turquoise-2-111-a/pmr/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "turquoise-2-111-a/pmr/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "turquoise-2-111-a/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "turquoise-2-111-a/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "051e12f1-AVRIL2025_Sakhli_4.100_PMR.pdf",
+  "id": "sakhli-4-100",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "sakhli-4-100/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "sakhli-4-100/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "sakhli-4-100/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "sakhli-4-100/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "sakhli-4-100/pmr/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "sakhli-4-100/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "0713be0d-TT_Turquoise_2.111_C_PMR.pdf",
+  "id": "turquoise-2-111-c",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-c/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-c/pmr/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "turquoise-2-111-c/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "turquoise-2-111-c/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "turquoise-2-111-c/pmr/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "turquoise-2-111-c/pmr/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "turquoise-2-111-c/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "turquoise-2-111-c/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "0725c07d-AVRIL2025_Condensia_3.084_PMR.pdf",
+  "id": "condensia-3-084",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "condensia-3-084/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "condensia-3-084/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "condensia-3-084/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "condensia-3-084/pmr/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "condensia-3-084/pmr/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "condensia-3-084/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "condensia-3-084/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "condensia-3-084/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "0a8af904-AVRIL2025_Prazia_3.104_GI.pdf",
+  "id": "prazia-3-104-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-3-104-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-3-104-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-3-104-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-3-104-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-3-104-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-3-104-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "12bd013a-AVRIL2025_PATRIMOINE_12.pdf",
+  "id": "patrimoine-12",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "patrimoine-12/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1111
+   },
+   {
+    "k": "facade-avant",
+    "f": "patrimoine-12/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "patrimoine-12/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "patrimoine-12/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "patrimoine-12/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "patrimoine-12/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-2.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-3.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-4.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-5.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-6.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-7.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-8.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-9.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-10.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-12/std/interieur-11.jpg",
+    "w": 1400,
+    "h": 983
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "141f9a89-AVRIL2025_Inicio_4.088.pdf",
+  "id": "inicio-4-088",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-4-088/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-4-088/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-4-088/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-4-088/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-4-088/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "15b82013-TT_Onyx_4.132.pdf",
+  "id": "onyx-4-132",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-132/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-132/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-132/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-132/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-132/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-132/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-132/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "onyx-4-132/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-132/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "15bee834-AVRIL2025_Hoga_3.087_PMR.pdf",
+  "id": "hoga-3-087",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "hoga-3-087/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "hoga-3-087/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "hoga-3-087/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "hoga-3-087/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "hoga-3-087/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "hoga-3-087/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "1783f6c3-TT_Onyx_4.118_GI.pdf",
+  "id": "onyx-4-118-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-118-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-118-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-118-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-118-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-118-gi/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "onyx-4-118-gi/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-118-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "18876e18-TT_Turquoise_2.111_A.pdf",
+  "id": "turquoise-2-111-a",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-a/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-a/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "turquoise-2-111-a/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "turquoise-2-111-a/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "turquoise-2-111-a/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "turquoise-2-111-a/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "turquoise-2-111-a/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "turquoise-2-111-a/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "19d06ecc-AVRIL2025_Sakhli_4.100.pdf",
+  "id": "sakhli-4-100",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "sakhli-4-100/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "sakhli-4-100/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "sakhli-4-100/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "sakhli-4-100/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "sakhli-4-100/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "sakhli-4-100/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "1a096108-AVRIL2025_Hal_i_3.095_GI.pdf",
+  "id": "halei-3-095-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-3-095-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-3-095-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-3-095-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-3-095-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-3-095-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-3-095-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "1df54acb-Opale_4.145_GI_4PANS.pdf",
+  "id": "opale-4-145-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "opale-4-145-gi/4p/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "opale-4-145-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "opale-4-145-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "opale-4-145-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "opale-4-145-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "opale-4-145-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "1efd76ca-AVRIL2025_Domova_3.092_PMR.pdf",
+  "id": "domova-3-092",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-3-092/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-3-092/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-3-092/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-3-092/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-3-092/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-3-092/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "2055cbc7-AVRIL2025_Hal_i_3.087.pdf",
+  "id": "halei-3-087",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-3-087/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-3-087/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-3-087/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-3-087/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-3-087/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-3-087/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 34
+  }
+ },
+ {
+  "f": "237b5428-TT_Opale_4.145_GI.pdf",
+  "id": "opale-4-145-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "opale-4-145-gi/tt/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "opale-4-145-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "opale-4-145-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "opale-4-145-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "opale-4-145-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "opale-4-145-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "244c5302-Azurite_4.118_TT___236_900_.pdf",
+  "id": "azurite-4-118",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "azurite-4-118/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "azurite-4-118/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "azurite-4-118/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "azurite-4-118/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "azurite-4-118/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "azurite-4-118/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-etage",
+    "f": "azurite-4-118/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "azurite-4-118/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "azurite-4-118/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "261d76f2-TT_Turquoise_2.111_B_PMR.pdf",
+  "id": "turquoise-2-111-b",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-b/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-b/pmr/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "turquoise-2-111-b/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "turquoise-2-111-b/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "turquoise-2-111-b/pmr/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "turquoise-2-111-b/pmr/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "turquoise-2-111-b/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "turquoise-2-111-b/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "262a31d7-AVRIL2025_Xoha_4.151_GI_PMR.pdf",
+  "id": "xoha-4-151-gi",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xoha-4-151-gi/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xoha-4-151-gi/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xoha-4-151-gi/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xoha-4-151-gi/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "xoha-4-151-gi/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xoha-4-151-gi/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "2836b08b-Quartz_3.148_GI_4PANS.pdf",
+  "id": "quartz-3-148-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "quartz-3-148-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "quartz-3-148-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "quartz-3-148-gi/4p/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "quartz-3-148-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "quartz-3-148-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "quartz-3-148-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "quartz-3-148-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "quartz-3-148-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "297346bc-AVRIL2025_Kojua_4.110.pdf",
+  "id": "kojua-4-110",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "kojua-4-110/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "kojua-4-110/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "kojua-4-110/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "kojua-4-110/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 859
+   },
+   {
+    "k": "plan-etage",
+    "f": "kojua-4-110/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 859
+   },
+   {
+    "k": "coupe",
+    "f": "kojua-4-110/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 30
+  }
+ },
+ {
+  "f": "2ae42436-Opale_4.145_TT___291_900_.pdf",
+  "id": "opale-4-145-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "opale-4-145-gi/tt/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "opale-4-145-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "opale-4-145-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "opale-4-145-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "opale-4-145-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "opale-4-145-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "2be2f3d2-Azurite_3.104_GI_4PANS.pdf",
+  "id": "azurite-3-104-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "azurite-3-104-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "azurite-3-104-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "azurite-3-104-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "azurite-3-104-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "azurite-3-104-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "azurite-3-104-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "azurite-3-104-gi/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "azurite-3-104-gi/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "azurite-3-104-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe-longitudinale",
+    "f": "azurite-3-104-gi/4p/coupe-longitudinale.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "2c614637-AVRIL2025_K_pia_3.079.pdf",
+  "id": "kepia-3-079",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "kepia-3-079/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "kepia-3-079/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "kepia-3-079/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "kepia-3-079/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "kepia-3-079/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "kepia-3-079/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "2f8063af-AVRIL2025_Prazia_3.096.pdf",
+  "id": "prazia-3-096",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-3-096/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-3-096/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-3-096/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-3-096/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-3-096/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-3-096/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "31f0db91-AVRIL2025_Condensia_3.090.pdf",
+  "id": "condensia-3-090",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "condensia-3-090/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "condensia-3-090/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "condensia-3-090/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "condensia-3-090/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "condensia-3-090/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "condensia-3-090/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "3426d2ab-AVRIL2025_Condensia_2.090.pdf",
+  "id": "condensia-2-090",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "condensia-2-090/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "condensia-2-090/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "condensia-2-090/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "condensia-2-090/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "condensia-2-090/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "condensia-2-090/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "condensia-2-090/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "condensia-2-090/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "3478f241-AVRIL2025_Stipia_5.133.pdf",
+  "id": "stipia-5-133",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "stipia-5-133/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "stipia-5-133/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "stipia-5-133/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "stipia-5-133/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "stipia-5-133/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "stipia-5-133/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "355fbaff-TT_Quartz_3.148_GI.pdf",
+  "id": "quartz-3-148-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "quartz-3-148-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "quartz-3-148-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "quartz-3-148-gi/tt/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "quartz-3-148-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "quartz-3-148-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "quartz-3-148-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "quartz-3-148-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "quartz-3-148-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "3c61ca76-AVRIL2025_Spiti_4.104.pdf",
+  "id": "spiti-4-104",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "spiti-4-104/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "spiti-4-104/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "spiti-4-104/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "spiti-4-104/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "spiti-4-104/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "spiti-4-104/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "3d313786-AVRIL2025_Domova_3.078.pdf",
+  "id": "domova-3-078",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-3-078/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-3-078/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-3-078/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-3-078/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-3-078/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-3-078/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "3d8c6b30-AVRIL2025_Inicio_3.088.pdf",
+  "id": "inicio-3-088",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-3-088/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-3-088/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-3-088/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-3-088/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-3-088/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "3f2640a9-AVRIL2025_Domova_3.092.pdf",
+  "id": "domova-3-092",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-3-092/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-3-092/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-3-092/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-3-092/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-3-092/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-3-092/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "41329f30-Opale_5.162_4PANS.pdf",
+  "id": "opale-5-162",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "opale-5-162/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "opale-5-162/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "opale-5-162/4p/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "opale-5-162/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "opale-5-162/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "opale-5-162/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "opale-5-162/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "opale-5-162/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "418daacc-TT_Opale_5.162.pdf",
+  "id": "opale-5-162",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "opale-5-162/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "opale-5-162/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "opale-5-162/tt/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "opale-5-162/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "opale-5-162/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "opale-5-162/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "opale-5-162/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "opale-5-162/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "471729df-TT_Azurite_4.118.pdf",
+  "id": "azurite-4-118",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "azurite-4-118/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "azurite-4-118/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "azurite-4-118/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "azurite-4-118/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "azurite-4-118/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "azurite-4-118/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-etage",
+    "f": "azurite-4-118/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "azurite-4-118/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "azurite-4-118/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "4a772fdf-PI_AVRIL2025_Imah_4.115_GI.pdf",
+  "id": "imah-4-115-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "imah-4-115-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "imah-4-115-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "imah-4-115-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "imah-4-115-gi/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "imah-4-115-gi/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "imah-4-115-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "imah-4-115-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "imah-4-115-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-2.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-3.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-4.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-5.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-6.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-7.jpg",
+    "w": 1400,
+    "h": 982
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "4c75e4f7-AVRIL2025_Prazia_4.104_GI.pdf",
+  "id": "prazia-4-104-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-4-104-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-4-104-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-4-104-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-4-104-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-4-104-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-4-104-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "4d8d4bd2-AVRIL2025_Manzili_3.077_GI.pdf",
+  "id": "manzili-3-077-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "manzili-3-077-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "manzili-3-077-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "manzili-3-077-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "manzili-3-077-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "manzili-3-077-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "manzili-3-077-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "4db9aa3a-AVRIL2025_Prazia_4.126_GI_PMR.pdf",
+  "id": "prazia-4-126-gi",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-4-126-gi/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-4-126-gi/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-4-126-gi/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-4-126-gi/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-4-126-gi/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-4-126-gi/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "4ed3b4a8-AVRIL2025_Inicio_3.073_GI.pdf",
+  "id": "inicio-3-073-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-3-073-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-3-073-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-3-073-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-3-073-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-3-073-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "50aca71e-TT_Turquoise_2.111_B.pdf",
+  "id": "turquoise-2-111-b",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-b/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-b/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "turquoise-2-111-b/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "turquoise-2-111-b/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "turquoise-2-111-b/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "turquoise-2-111-b/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "turquoise-2-111-b/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "turquoise-2-111-b/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "51c6dc72-AVRIL2025_Rumah_4.088_GI.pdf",
+  "id": "rumah-4-088-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "rumah-4-088-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "rumah-4-088-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "rumah-4-088-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "rumah-4-088-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "rumah-4-088-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "rumah-4-088-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "535e80d0-AVRIL2025_Inicio_3.090_GI.pdf",
+  "id": "inicio-3-090-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-3-090-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-3-090-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-3-090-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-3-090-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-3-090-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "5555db89-AVRIL2025_Hal_i_3.094_GI.pdf",
+  "id": "halei-3-094-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-3-094-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-3-094-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-3-094-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-3-094-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-3-094-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-3-094-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "571759bc-AVRIL2025_Xani_5.139.pdf",
+  "id": "xani-5-139",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xani-5-139/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xani-5-139/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xani-5-139/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xani-5-139/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "xani-5-139/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xani-5-139/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "5a0cc48b-AVRIL2025_Hal_i_4.092.pdf",
+  "id": "halei-4-092",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-4-092/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-4-092/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-4-092/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-4-092/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-4-092/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-4-092/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 32
+  }
+ },
+ {
+  "f": "5aff184f-AVRIL2025_Hal_i_3.081_GI.pdf",
+  "id": "halei-3-081-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-3-081-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-3-081-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-3-081-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-3-081-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-3-081-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-3-081-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 40
+  }
+ },
+ {
+  "f": "5c7b763a-AVRIL2025_Xan_o_4.112_GI.pdf",
+  "id": "xaneo-4-112-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xaneo-4-112-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xaneo-4-112-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xaneo-4-112-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xaneo-4-112-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xaneo-4-112-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "5c8a3405-AVRIL2025_Hal_i_3.095_GI_PMR.pdf",
+  "id": "halei-3-095-gi",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-3-095-gi/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-3-095-gi/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-3-095-gi/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-3-095-gi/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-3-095-gi/pmr/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-3-095-gi/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "5cf56632-Azurite_4.118_4PANS.pdf",
+  "id": "azurite-4-118",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "azurite-4-118/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "azurite-4-118/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "azurite-4-118/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "azurite-4-118/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "azurite-4-118/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "azurite-4-118/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "azurite-4-118/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "azurite-4-118/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "azurite-4-118/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe-longitudinale",
+    "f": "azurite-4-118/4p/coupe-longitudinale.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "65508836-AVRIL2025_K_pia_3.070_GI.pdf",
+  "id": "kepia-3-070-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "kepia-3-070-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "kepia-3-070-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "kepia-3-070-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "kepia-3-070-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "kepia-3-070-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "kepia-3-070-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "65a5ca3a-AVRIL2025_Stipia_4.118_GI.pdf",
+  "id": "stipia-4-118-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "stipia-4-118-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "stipia-4-118-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "stipia-4-118-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "stipia-4-118-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "stipia-4-118-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "stipia-4-118-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "65e50dde-AVRIL2025_Whari_3.120.pdf",
+  "id": "whari-3-120",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "whari-3-120/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "whari-3-120/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "whari-3-120/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "whari-3-120/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "whari-3-120/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "whari-3-120/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "6b261391-AVRIL2025_Condensia_4.090_GI.pdf",
+  "id": "condensia-4-090-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "condensia-4-090-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "condensia-4-090-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "condensia-4-090-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "condensia-4-090-gi/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "condensia-4-090-gi/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "condensia-4-090-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "condensia-4-090-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "condensia-4-090-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 40
+  }
+ },
+ {
+  "f": "6e030b2d-Opale_4.145_4_pans___291_900_.pdf",
+  "id": "opale-4-145-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "opale-4-145-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "opale-4-145-gi/4p/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "opale-4-145-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "opale-4-145-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "opale-4-145-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "opale-4-145-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "opale-4-145-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "70e3a607-AVRIL2025_Mhatso_3.116_A_GI.pdf",
+  "id": "mhatso-3-116-a-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "mhatso-3-116-a-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "mhatso-3-116-a-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "mhatso-3-116-a-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "mhatso-3-116-a-gi/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "mhatso-3-116-a-gi/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "mhatso-3-116-a-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "mhatso-3-116-a-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "713611fe-AVRIL2025_Domova_3.087_GI.pdf",
+  "id": "domova-3-087-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-3-087-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-3-087-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-3-087-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-3-087-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-3-087-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-3-087-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "76d8d1ea-AVRIL2025_Talo_3.111_B.pdf",
+  "id": "talo-3-111-b",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "talo-3-111-b/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "talo-3-111-b/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "talo-3-111-b/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "talo-3-111-b/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "talo-3-111-b/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "talo-3-111-b/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "talo-3-111-b/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe-longitudinale",
+    "f": "talo-3-111-b/std/coupe-longitudinale.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "77a51a4c-AVRIL2025_Hal_i_4.106_PMR.pdf",
+  "id": "halei-4-106",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-4-106/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-4-106/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-4-106/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-4-106/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-4-106/pmr/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-4-106/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "78d8d2e1-AVRIL2025_Xoha_5.152.pdf",
+  "id": "xoha-5-152",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xoha-5-152/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xoha-5-152/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xoha-5-152/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xoha-5-152/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "xoha-5-152/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xoha-5-152/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "7a5200a8-Onyx_4.132_4PANS.pdf",
+  "id": "onyx-4-132",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-132/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-132/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-132/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-132/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-132/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-132/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-132/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-132/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "7c899bcc-AVRIL2025_Kojua_4.103_GI.pdf",
+  "id": "kojua-4-103-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "kojua-4-103-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "kojua-4-103-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "kojua-4-103-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "kojua-4-103-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "kojua-4-103-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "kojua-4-103-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "7d016e5d-TT_Azurite_3.104_GI.pdf",
+  "id": "azurite-3-104-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "azurite-3-104-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "azurite-3-104-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "azurite-3-104-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "azurite-3-104-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "azurite-3-104-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "azurite-3-104-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "azurite-3-104-gi/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "azurite-3-104-gi/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "azurite-3-104-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "7f84fbfe-AVRIL2025_Prazia_3.096_GI.pdf",
+  "id": "prazia-3-096-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-3-096-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-3-096-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-3-096-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-3-096-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-3-096-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-3-096-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "80037827-AVRIL2025_Xan_o_2.093_GI.pdf",
+  "id": "xaneo-2-093-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xaneo-2-093-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xaneo-2-093-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xaneo-2-093-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xaneo-2-093-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xaneo-2-093-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8005c1a7-AVRIL2025_Inicio_3.090_GI_PMR.pdf",
+  "id": "inicio-3-090-gi",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-3-090-gi/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-3-090-gi/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-3-090-gi/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-3-090-gi/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-3-090-gi/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8051b402-AVRIL2025_Inicio_1.053.pdf",
+  "id": "inicio-1-053",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-1-053/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-1-053/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-1-053/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-1-053/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-1-053/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8191dac7-AVRIL2025_Inicio_4.099_GI.pdf",
+  "id": "inicio-4-099-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-4-099-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-4-099-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-4-099-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-4-099-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-4-099-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "81b95a57-Onyx_4.132_TT___269_900_.pdf",
+  "id": "onyx-4-132",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-132/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-132/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-132/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-132/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-132/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-132/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-132/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "onyx-4-132/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-132/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "824fa40d-AVRIL2025_Manzili_4.091.pdf",
+  "id": "manzili-4-091",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "manzili-4-091/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "manzili-4-091/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "manzili-4-091/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "manzili-4-091/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "manzili-4-091/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "manzili-4-091/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "828b8a31-AVRIL2025_Mhatso_3.116_B_GI.pdf",
+  "id": "mhatso-3-116-b-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "mhatso-3-116-b-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "mhatso-3-116-b-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "mhatso-3-116-b-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "mhatso-3-116-b-gi/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "mhatso-3-116-b-gi/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "mhatso-3-116-b-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "mhatso-3-116-b-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {
+   "pente": 20
+  }
+ },
+ {
+  "f": "8677e28a-AVRIL2025_Talo_3.111_A.pdf",
+  "id": "talo-3-111-a",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "talo-3-111-a/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "talo-3-111-a/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "talo-3-111-a/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "talo-3-111-a/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "talo-3-111-a/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "talo-3-111-a/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "talo-3-111-a/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe-longitudinale",
+    "f": "talo-3-111-a/std/coupe-longitudinale.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8b374066-AVRIL2025_Prazia_4.093_GI.pdf",
+  "id": "prazia-4-093-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-4-093-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-4-093-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-4-093-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-4-093-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-4-093-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-4-093-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8e9046cf-Azurite_4.118_4_pans___236_900_.pdf",
+  "id": "azurite-4-118",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "azurite-4-118/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "azurite-4-118/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "azurite-4-118/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "azurite-4-118/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "azurite-4-118/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "azurite-4-118/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "azurite-4-118/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "azurite-4-118/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "azurite-4-118/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe-longitudinale",
+    "f": "azurite-4-118/4p/coupe-longitudinale.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8ebb969c-AVRIL2025_Manzili_3.091.pdf",
+  "id": "manzili-3-091",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "manzili-3-091/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "manzili-3-091/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "manzili-3-091/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "manzili-3-091/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "manzili-3-091/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "manzili-3-091/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "8f35999a-AVRIL2025_Xan_o_3.102.pdf",
+  "id": "xaneo-3-102",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xaneo-3-102/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xaneo-3-102/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xaneo-3-102/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xaneo-3-102/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xaneo-3-102/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "8f6ae70c-AVRIL2025_Imah_3.101.pdf",
+  "id": "imah-3-101",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "imah-3-101/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "imah-3-101/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "imah-3-101/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "imah-3-101/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "imah-3-101/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "imah-3-101/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "944e854d-AVRIL2025_Tayi_1.051_GI_CA.pdf",
+  "id": "tayi-1-051-gi-ca",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "tayi-1-051-gi-ca/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "tayi-1-051-gi-ca/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "tayi-1-051-gi-ca/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "tayi-1-051-gi-ca/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "tayi-1-051-gi-ca/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "tayi-1-051-gi-ca/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "94bc7c1f-AVRIL2025_Sakhli_4.109_GI.pdf",
+  "id": "sakhli-4-109-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "sakhli-4-109-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "sakhli-4-109-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "sakhli-4-109-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "sakhli-4-109-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "sakhli-4-109-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "sakhli-4-109-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "95e1db90-AVRIL2025_Sakhli_5.133_GI.pdf",
+  "id": "sakhli-5-133-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "sakhli-5-133-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "sakhli-5-133-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "sakhli-5-133-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "sakhli-5-133-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "sakhli-5-133-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "sakhli-5-133-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "9659ad44-AVRIL2025_Tayi_3.086_CA.pdf",
+  "id": "tayi-3-086-ca",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "tayi-3-086-ca/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "tayi-3-086-ca/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "tayi-3-086-ca/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "tayi-3-086-ca/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "tayi-3-086-ca/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "tayi-3-086-ca/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "9e8dabcf-AVRIL2025_Prazia_4.126_GI.pdf",
+  "id": "prazia-4-126-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-4-126-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-4-126-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-4-126-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-4-126-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-4-126-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-4-126-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Echos_1.048_GI_CA_-_Version_A.pdf",
+  "id": "echos-1-048-gi-ca",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "echos-1-048-gi-ca/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "plan-rdc",
+    "f": "echos-1-048-gi-ca/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "echos-1-048-gi-ca/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_3.078.pdf",
+  "id": "eclat-3-078",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-3-078/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-3-078/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-3-078/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-3-078/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_3.090.pdf",
+  "id": "eclat-3-090",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-3-090/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-3-090/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-3-090/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-3-090/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_3.090_GI.pdf",
+  "id": "eclat-3-090-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-3-090-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-3-090-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-3-090-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-3-090-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_3.093_GI.pdf",
+  "id": "eclat-3-093-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-3-093-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-3-093-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-3-093-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-3-093-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_3.096.pdf",
+  "id": "eclat-3-096",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-3-096/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-3-096/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-3-096/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-3-096/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_3.111.pdf",
+  "id": "eclat-3-111",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-3-111/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-3-111/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-3-111/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-3-111/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_4.090_GI.pdf",
+  "id": "eclat-4-090-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-4-090-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-4-090-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-4-090-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-4-090-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_4.095.pdf",
+  "id": "eclat-4-095",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-4-095/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-4-095/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-4-095/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-4-095/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eclat_4.096.pdf",
+  "id": "eclat-4-096",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eclat-4-096/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eclat-4-096/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eclat-4-096/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "eclat-4-096/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eden_2.062_GI.pdf",
+  "id": "eden-2-062-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eden-2-062-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eden-2-062-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eden-2-062-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eden_2.093_GI.pdf",
+  "id": "eden-2-093-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eden-2-093-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eden-2-093-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eden-2-093-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eden_3.069.pdf",
+  "id": "eden-3-069",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eden-3-069/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eden-3-069/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eden-3-069/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eden_3.076.pdf",
+  "id": "eden-3-076",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eden-3-076/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eden-3-076/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eden-3-076/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Eden_3.090_GI.pdf",
+  "id": "eden-3-090-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "eden-3-090-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "eden-3-090-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "eden-3-090-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Equilibre_3.076_GI.pdf",
+  "id": "equilibre-3-076-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "equilibre-3-076-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "equilibre-3-076-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "equilibre-3-076-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "equilibre-3-076-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Equilibre_3.077_GI.pdf",
+  "id": "equilibre-3-077-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "equilibre-3-077-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "equilibre-3-077-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "equilibre-3-077-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "equilibre-3-077-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Equilibre_3.091.pdf",
+  "id": "equilibre-3-091",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "equilibre-3-091/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "equilibre-3-091/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "equilibre-3-091/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "equilibre-3-091/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Equilibre_3.099_GI.pdf",
+  "id": "equilibre-3-099-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "equilibre-3-099-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "equilibre-3-099-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "equilibre-3-099-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "equilibre-3-099-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "EQ_SEPTEMBRE_2026_Equilibre_4.108.pdf",
+  "id": "equilibre-4-108",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "equilibre-4-108/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1096
+   },
+   {
+    "k": "facade-avant",
+    "f": "equilibre-4-108/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "equilibre-4-108/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "a077f6fc-Onyx_4.132_4_pans___269_900_.pdf",
+  "id": "onyx-4-132",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-132/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-132/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-132/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-132/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-132/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-132/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-132/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-132/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "a14213b1-AVRIL2025_Tayi_1.057_CA.pdf",
+  "id": "tayi-1-057-ca",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "tayi-1-057-ca/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "tayi-1-057-ca/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "tayi-1-057-ca/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "tayi-1-057-ca/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "tayi-1-057-ca/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "tayi-1-057-ca/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "a2eb1ee7-AVRIL2025_Domova_4.110.pdf",
+  "id": "domova-4-110",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-4-110/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-4-110/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-4-110/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-4-110/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-4-110/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "domova-4-110/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-4-110/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "a607fcc8-TT_Corail_5.165_GI.pdf",
+  "id": "corail-5-165-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "corail-5-165-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "corail-5-165-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "corail-5-165-gi/tt/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "corail-5-165-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "corail-5-165-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "corail-5-165-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "corail-5-165-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-etage",
+    "f": "corail-5-165-gi/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "corail-5-165-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "ad6cd866-AVRIL2025_Imah_3.094_GI.pdf",
+  "id": "imah-3-094-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "imah-3-094-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "imah-3-094-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "imah-3-094-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "imah-3-094-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "imah-3-094-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "imah-3-094-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "b0421177-AVRIL2025_Hoga_3.094_GI_V2_Octobre2025.pdf",
+  "id": "hoga-3-094-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "hoga-3-094-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "hoga-3-094-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "hoga-3-094-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "hoga-3-094-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "hoga-3-094-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "hoga-3-094-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "b33aead8-AVRIL2025_Xoha_5.152_GI.pdf",
+  "id": "xoha-5-152-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xoha-5-152-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xoha-5-152-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xoha-5-152-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "xoha-5-152-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xoha-5-152-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "xoha-5-152-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "b5dfde5b-TT_Quartz_3.169_GI.pdf",
+  "id": "quartz-3-169-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "quartz-3-169-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "quartz-3-169-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "quartz-3-169-gi/tt/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "quartz-3-169-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "quartz-3-169-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "quartz-3-169-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "quartz-3-169-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "quartz-3-169-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "b60b2ee8-AVRIL2025_Ghari_5.165.pdf",
+  "id": "ghari-5-165",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "ghari-5-165/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "ghari-5-165/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "ghari-5-165/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "ghari-5-165/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "ghari-5-165/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "ghari-5-165/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "b8b51057-AVRIL2025_PATRIMOINE_10.pdf",
+  "id": "patrimoine-10",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "patrimoine-10/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1111
+   },
+   {
+    "k": "facade-avant",
+    "f": "patrimoine-10/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "patrimoine-10/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "patrimoine-10/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "patrimoine-10/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "patrimoine-10/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-2.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-3.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-4.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-5.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-6.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-7.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-8.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-9.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-10/std/interieur-10.jpg",
+    "w": 1400,
+    "h": 983
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "b8c2f21b-AVRIL2025_Domova_4.088.pdf",
+  "id": "domova-4-088",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-4-088/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-4-088/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-4-088/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-4-088/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-4-088/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-4-088/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "c0736bdd-AVRIL2025_Spiti_3.090_GI.pdf",
+  "id": "spiti-3-090-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "spiti-3-090-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "spiti-3-090-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "spiti-3-090-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "spiti-3-090-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "spiti-3-090-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "spiti-3-090-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "c1ab73bc-AVRIL2025_Prazia_4.096.pdf",
+  "id": "prazia-4-096",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-4-096/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-4-096/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-4-096/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-4-096/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-4-096/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-4-096/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "c3a99e4a-Corail_6.192_4PANS.pdf",
+  "id": "corail-6-192",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "corail-6-192/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "corail-6-192/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "corail-6-192/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "corail-6-192/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "corail-6-192/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "corail-6-192/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-etage",
+    "f": "corail-6-192/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "corail-6-192/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "c5b62a07-Corail_5.165_GI_4PANS.pdf",
+  "id": "corail-5-165-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "corail-5-165-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "corail-5-165-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "corail-5-165-gi/4p/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "corail-5-165-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "corail-5-165-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "corail-5-165-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "corail-5-165-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-etage",
+    "f": "corail-5-165-gi/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "corail-5-165-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "c8e570d9-AVRIL2025_Ghari_3.128_GI.pdf",
+  "id": "ghari-3-128-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "ghari-3-128-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "ghari-3-128-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "ghari-3-128-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "ghari-3-128-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "ghari-3-128-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "ghari-3-128-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "cb0d20bd-AVRIL2025_Trano_3.108.pdf",
+  "id": "trano-3-108",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "trano-3-108/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "trano-3-108/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "trano-3-108/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "trano-3-108/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "trano-3-108/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "trano-3-108/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "trano-3-108/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe-longitudinale",
+    "f": "trano-3-108/std/coupe-longitudinale.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "cbd41098-AVRIL2025_Hoga_4.095.pdf",
+  "id": "hoga-4-095",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "hoga-4-095/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "hoga-4-095/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "hoga-4-095/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "hoga-4-095/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "hoga-4-095/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "hoga-4-095/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "cd8b465a-AVRIL2026_Kojua_3.090_1.pdf",
+  "err": "modèle non reconnu",
+  "t": "Kojua 3.090\nMaMaison\n\nIllustration non-contractuelle\n\n\f"
+ },
+ {
+  "f": "cdfa88a9-AVRIL2025_Hal_i_4.108.pdf",
+  "id": "halei-4-108",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-4-108/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-4-108/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-4-108/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-4-108/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-4-108/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-4-108/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "ce72690a-AVRIL2025_Tayi_2.086_CA.pdf",
+  "id": "tayi-2-086-ca",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "tayi-2-086-ca/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "tayi-2-086-ca/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "tayi-2-086-ca/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "tayi-2-086-ca/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "tayi-2-086-ca/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "tayi-2-086-ca/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "cfa47328-AVRIL2025_Kojua_3.095_GI.pdf",
+  "id": "kojua-3-095-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "kojua-3-095-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "kojua-3-095-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "kojua-3-095-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "kojua-3-095-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 859
+   },
+   {
+    "k": "plan-etage",
+    "f": "kojua-3-095-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 859
+   },
+   {
+    "k": "coupe",
+    "f": "kojua-3-095-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 30
+  }
+ },
+ {
+  "f": "d21b8e5c-AVRIL2025_Prazia_3.082_GI.pdf",
+  "id": "prazia-3-082-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "prazia-3-082-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "prazia-3-082-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "prazia-3-082-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "prazia-3-082-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "prazia-3-082-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "prazia-3-082-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "d296e59e-AVRIL2025_Hoga_3.108_GI_PMR.pdf",
+  "id": "hoga-3-108-gi",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "hoga-3-108-gi/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "hoga-3-108-gi/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "hoga-3-108-gi/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "hoga-3-108-gi/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "hoga-3-108-gi/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "hoga-3-108-gi/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "d2f2eacb-Onyx_4.118_GI_4_pans___270_900_.pdf",
+  "id": "onyx-4-118-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-118-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-118-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-118-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-118-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-118-gi/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "onyx-4-118-gi/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-118-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "d4982ec4-AVRIL2025_Kojua_3.110.pdf",
+  "id": "kojua-3-110",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "kojua-3-110/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "kojua-3-110/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "kojua-3-110/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "kojua-3-110/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 859
+   },
+   {
+    "k": "plan-etage",
+    "f": "kojua-3-110/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 859
+   },
+   {
+    "k": "coupe",
+    "f": "kojua-3-110/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "d722dcd3-AVRIL2025_Spiti_4.112.pdf",
+  "id": "spiti-4-112",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "spiti-4-112/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "spiti-4-112/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "spiti-4-112/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "spiti-4-112/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "spiti-4-112/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "spiti-4-112/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "d950b424-TT_Turquoise_2.111_C.pdf",
+  "id": "turquoise-2-111-c",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-c/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "turquoise-2-111-c/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "turquoise-2-111-c/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "turquoise-2-111-c/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "turquoise-2-111-c/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "turquoise-2-111-c/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "turquoise-2-111-c/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "turquoise-2-111-c/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "terrasse": true
+  }
+ },
+ {
+  "f": "d98f716e-AVRIL2025_Domova_4.087_GI.pdf",
+  "id": "domova-4-087-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "domova-4-087-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "domova-4-087-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "domova-4-087-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "domova-4-087-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "domova-4-087-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "domova-4-087-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "db5a102b-Quartz_3.169_GI_4PANS.pdf",
+  "id": "quartz-3-169-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "quartz-3-169-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "quartz-3-169-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "plan-rdc",
+    "f": "quartz-3-169-gi/4p/plan-rdc.jpg",
+    "w": 1351,
+    "h": 871
+   },
+   {
+    "k": "facade-avant",
+    "f": "quartz-3-169-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "quartz-3-169-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "quartz-3-169-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "quartz-3-169-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "coupe",
+    "f": "quartz-3-169-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "dc6fad15-AVRIL2025_Hoga_3.087.pdf",
+  "id": "hoga-3-087",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "hoga-3-087/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "hoga-3-087/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "hoga-3-087/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "hoga-3-087/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "hoga-3-087/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "hoga-3-087/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "de525bdd-TT_Corail_6.192.pdf",
+  "id": "corail-6-192",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "corail-6-192/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "corail-6-192/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "corail-6-192/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "corail-6-192/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "corail-6-192/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "corail-6-192/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "corail-6-192/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "corail-6-192/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "corail-6-192/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "e0b8763e-AVRIL2025_Xan_o_4.132_PMR.pdf",
+  "id": "xaneo-4-132",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xaneo-4-132/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xaneo-4-132/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xaneo-4-132/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xaneo-4-132/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xaneo-4-132/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "e1eadf4f-AVRIL2025_Xani_4.124_GI.pdf",
+  "id": "xani-4-124-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xani-4-124-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xani-4-124-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xani-4-124-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xani-4-124-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "xani-4-124-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xani-4-124-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "e3376445-AVRIL2025_Inicio_3.076.pdf",
+  "id": "inicio-3-076",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-3-076/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-3-076/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-3-076/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-3-076/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-3-076/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "e3c85089-AVRIL2025_Hal_i_4.106.pdf",
+  "id": "halei-4-106",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-4-106/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-4-106/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-4-106/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-4-106/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-4-106/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-4-106/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "e7f61c04-AVRIL2025_Imah_4.115_GI_-_PI.pdf",
+  "id": "imah-4-115-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "imah-4-115-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "imah-4-115-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "imah-4-115-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "imah-4-115-gi/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "imah-4-115-gi/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "imah-4-115-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "imah-4-115-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "imah-4-115-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-2.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-3.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-4.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-5.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-6.jpg",
+    "w": 1400,
+    "h": 982
+   },
+   {
+    "k": "interieur",
+    "f": "imah-4-115-gi/std/interieur-7.jpg",
+    "w": 1400,
+    "h": 982
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "e9ca0409-AVRIL2025_Xoha_4.152_PMR.pdf",
+  "id": "xoha-4-152",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xoha-4-152/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xoha-4-152/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xoha-4-152/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xoha-4-152/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "xoha-4-152/pmr/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xoha-4-152/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "ea1aebe8-AVRIL2025_Rumah_4.102.pdf",
+  "id": "rumah-4-102",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "rumah-4-102/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "rumah-4-102/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "rumah-4-102/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "rumah-4-102/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "rumah-4-102/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "rumah-4-102/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "eb4ae907-Onyx_4.118_GI_TT___270_900_.pdf",
+  "id": "onyx-4-118-gi",
+  "var": "tt",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/tt/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/tt/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-118-gi/tt/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-118-gi/tt/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-118-gi/tt/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-118-gi/tt/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-118-gi/tt/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "onyx-4-118-gi/tt/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-118-gi/tt/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {}
+ },
+ {
+  "f": "eb59ab26-AVRIL2025_Condensia_3.106_GI.pdf",
+  "id": "condensia-3-106-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "condensia-3-106-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "condensia-3-106-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "condensia-3-106-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "condensia-3-106-gi/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "condensia-3-106-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "condensia-3-106-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "condensia-3-106-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 45
+  }
+ },
+ {
+  "f": "f39d8420-AVRIL2025_Xan_o_3.104_GI.pdf",
+  "id": "xaneo-3-104-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "xaneo-3-104-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "xaneo-3-104-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "xaneo-3-104-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "xaneo-3-104-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "xaneo-3-104-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "f4609de1-AVRIL2025_Mhatso_3.116.pdf",
+  "id": "mhatso-3-116",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "mhatso-3-116/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "mhatso-3-116/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "mhatso-3-116/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "mhatso-3-116/std/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "mhatso-3-116/std/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "mhatso-3-116/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "mhatso-3-116/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 51
+  }
+ },
+ {
+  "f": "f4688c8c-Onyx_4.118_GI_4PANS.pdf",
+  "id": "onyx-4-118-gi",
+  "var": "4p",
+  "items": [
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/4p/vue-1.jpg",
+    "w": 1600,
+    "h": 1089
+   },
+   {
+    "k": "vue",
+    "f": "onyx-4-118-gi/4p/vue-2.jpg",
+    "w": 1600,
+    "h": 1086
+   },
+   {
+    "k": "facade-avant",
+    "f": "onyx-4-118-gi/4p/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "onyx-4-118-gi/4p/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-gauche",
+    "f": "onyx-4-118-gi/4p/pignon-gauche.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "pignon-droit",
+    "f": "onyx-4-118-gi/4p/pignon-droit.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "onyx-4-118-gi/4p/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "onyx-4-118-gi/4p/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "onyx-4-118-gi/4p/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "f6ab305c-AVRIL2025_PATRIMOINE_14.pdf",
+  "id": "patrimoine-14",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "patrimoine-14/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1111
+   },
+   {
+    "k": "facade-avant",
+    "f": "patrimoine-14/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "patrimoine-14/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "patrimoine-14/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "patrimoine-14/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "patrimoine-14/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-2.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-3.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-4.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-5.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-6.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-7.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-8.jpg",
+    "w": 1400,
+    "h": 983
+   },
+   {
+    "k": "interieur",
+    "f": "patrimoine-14/std/interieur-9.jpg",
+    "w": 1400,
+    "h": 983
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "f72c3323-AVRIL2025_Inicio_3.088_PMR.pdf",
+  "id": "inicio-3-088",
+  "var": "pmr",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-3-088/pmr/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-3-088/pmr/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-3-088/pmr/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-3-088/pmr/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-3-088/pmr/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "f8a282bc-AVRIL2025_Hoga_3.108_GI.pdf",
+  "id": "hoga-3-108-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "hoga-3-108-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "hoga-3-108-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "hoga-3-108-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "hoga-3-108-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-etage",
+    "f": "hoga-3-108-gi/std/plan-etage.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "hoga-3-108-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ },
+ {
+  "f": "fae8d8ec-AVRIL2025_Hal_i_3.088_GI.pdf",
+  "id": "halei-3-088-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "halei-3-088-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "halei-3-088-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "halei-3-088-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "halei-3-088-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "plan-combles",
+    "f": "halei-3-088-gi/std/plan-combles.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "halei-3-088-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 40
+  }
+ },
+ {
+  "f": "fc5cc269-AVRIL2025_Inicio_1.051_GI.pdf",
+  "id": "inicio-1-051-gi",
+  "var": "std",
+  "items": [
+   {
+    "k": "vue",
+    "f": "inicio-1-051-gi/std/vue-1.jpg",
+    "w": 1600,
+    "h": 1124
+   },
+   {
+    "k": "facade-avant",
+    "f": "inicio-1-051-gi/std/facade-avant.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "facade-arriere",
+    "f": "inicio-1-051-gi/std/facade-arriere.jpg",
+    "w": 1287,
+    "h": 738
+   },
+   {
+    "k": "plan-rdc",
+    "f": "inicio-1-051-gi/std/plan-rdc.jpg",
+    "w": 1500,
+    "h": 858
+   },
+   {
+    "k": "coupe",
+    "f": "inicio-1-051-gi/std/coupe.jpg",
+    "w": 1287,
+    "h": 738
+   }
+  ],
+  "h": {
+   "pente": 35
+  }
+ }
+]
