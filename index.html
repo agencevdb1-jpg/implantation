@@ -256,6 +256,7 @@ button{cursor:pointer}
 .status.ok{color:var(--ok)} .status.bad{color:var(--bad)}
 .fine{margin:6px 0 0;font-size:12px;color:var(--muted)}
 .abf-l{margin:6px 0;padding-left:18px;display:grid;gap:4px}
+.gac-row{flex-wrap:wrap;gap:6px}.reg-wrap{margin:8px 0 0}.reg-row{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12.5px;font-weight:600;color:var(--muted)}.reg-row select{font:inherit;color:var(--ink)}
 .ppr-up{display:inline-flex;align-items:center;border:1px solid var(--line);border-radius:7px;padding:4px 10px;font-weight:600;font-size:12.5px;cursor:pointer;background:var(--panel);color:var(--ink)}
 .ppr-t{margin:4px 0}.ppr-t summary{cursor:pointer;font-weight:600;font-size:12.5px}.ppr-t ul{margin:4px 0 6px;padding-left:18px;display:grid;gap:4px}
 .calibbox{background:var(--house-soft);border-radius:8px;padding:10px;margin-top:8px}
@@ -564,7 +565,7 @@ html.locked body>*:not(#gate){visibility:hidden}
       <div class="fin-row" id="fin-row" role="radiogroup" aria-label="Finition"></div>
       <button id="mod-load" class="next" style="margin-top:4px">Choisir ce modèle</button>
       <label class="row gar-row" hidden><input type="checkbox" class="gar" checked> Avec garage <span class="fine gar-info" style="margin:0"></span></label>
-      <div class="row gac-row" hidden><label style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="gac"> Garage accolé en pignon</label><select class="gac-w" aria-label="Largeur du garage accolé"></select><select class="gac-s" aria-label="Côté du garage accolé (vu depuis la rue)"><option value="gauche">à gauche</option><option value="droite">à droite</option></select><span class="fine gac-info" style="margin:0"></span></div>
+      <div class="row gac-row" hidden><label style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="gac"> Garage accolé en pignon</label><select class="gac-w" aria-label="Largeur du garage accolé"></select><select class="gac-s" aria-label="Côté du garage accolé (vu depuis la rue)"><option value="gauche">à gauche</option><option value="droite">à droite</option></select><select class="gac-r" aria-label="Toiture du garage accolé" hidden></select><label class="gac-thl" style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="gac-th"> toute hauteur</label><span class="fine gac-info" style="margin:0"></span></div>
       <label class="row fac-row" hidden><span class="lbl fac-lbl">Façade du garage (porte)</span><select class="fac" aria-label="Façade du garage"><option value="bas">Bas du plan</option><option value="haut">Haut du plan</option><option value="gauche">Gauche du plan</option><option value="droite">Droite du plan</option></select></label>
       <p class="status" id="mod-status"></p>
       <button id="mod-del" class="sm ghost" style="margin-top:6px">Supprimer le modèle sélectionné</button>
@@ -633,7 +634,7 @@ html.locked body>*:not(#gate){visibility:hidden}
           </div>
         </div>
         <label class="row gar-row" hidden><input type="checkbox" class="gar" checked> Avec garage <span class="fine gar-info" style="margin:0"></span></label>
-      <div class="row gac-row" hidden><label style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="gac"> Garage accolé en pignon</label><select class="gac-w" aria-label="Largeur du garage accolé"></select><select class="gac-s" aria-label="Côté du garage accolé (vu depuis la rue)"><option value="gauche">à gauche</option><option value="droite">à droite</option></select><span class="fine gac-info" style="margin:0"></span></div>
+      <div class="row gac-row" hidden><label style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="gac"> Garage accolé en pignon</label><select class="gac-w" aria-label="Largeur du garage accolé"></select><select class="gac-s" aria-label="Côté du garage accolé (vu depuis la rue)"><option value="gauche">à gauche</option><option value="droite">à droite</option></select><select class="gac-r" aria-label="Toiture du garage accolé" hidden></select><label class="gac-thl" style="display:flex;gap:6px;align-items:center"><input type="checkbox" class="gac-th"> toute hauteur</label><span class="fine gac-info" style="margin:0"></span></div>
         <label class="row fac-row" hidden><span class="lbl fac-lbl">Façade du garage (porte)</span><select class="fac" aria-label="Façade du garage"><option value="bas">Bas du plan</option><option value="haut">Haut du plan</option><option value="gauche">Gauche du plan</option><option value="droite">Droite du plan</option></select></label>
         <div class="row"><span class="lbl">Garage face à</span><select id="al-edge"></select><button id="al-go" class="sm">Orienter</button></div>
         <p class="fine">À la mise en place, le garage est toujours tourné vers la voirie. Ici, choisissez le côté de la parcelle qui donne sur la rue ; si la porte du garage n'est pas en bas du plan, réglez sa façade (à enregistrer dans le catalogue à l'étape Maison). Au clavier : flèches pour déplacer, Q et E pour pivoter, Maj pour aller plus vite.</p>
